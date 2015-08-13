@@ -1,0 +1,12 @@
+# Site settings
+title: eusounômade - Tudo sobre um estilo de vida nômade.
+email: bukinoshita@gmail.com
+description: > # Uma mistura sobre o estilo de vida nômade, trabalhando remotamente e mais.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://eusounomade.com.br"
+twitter_username: BuKinoshita
+github_username:  BrunoKinoshita
+
+# Build settings
+markdown: kramdown
+exclude: [node_modules/*, assets]

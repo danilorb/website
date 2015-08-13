@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="895px" height="536px" viewBox="0 0 895 536" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>eusounomade</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="256" sketch:type="MSArtboardGroup" transform="translate(-11.000000, -24.000000)">
+            <g id="eusounomade" sketch:type="MSLayerGroup" transform="translate(18.000000, 30.000000)">
+                <path d="M215.846391,277.06109 L418.559387,0 L570.145588,207.18276 L570.145588,207.18276 L649.779693,97.8959538 L881,415.213873 L570.455939,415.213873 L216.030651,415.213873 L0,415.213873 L158.64751,199.16763 L215.846391,277.06109 Z" id="Triangle-1" stroke="#FFFFFF" stroke-width="7" sketch:type="MSShapeGroup"></path>
+                <g id="NÔMADE-+-EUSOU" transform="translate(3.000000, 446.000000)" font-family="Helvetica Neue" letter-spacing="25" sketch:type="MSTextLayer" sketch:alignment="middle" fill="#FFFFFF">
+                    <text id="NÔMADE" font-size="84.3869732" font-weight="420">
+                        <tspan x="386.270594" y="82">NÔMAD</tspan>
+                        <tspan x="828.565613" y="82">E</tspan>
+                    </text>
+                    <text id="EUSOU" font-size="84.387" font-weight="206">
+                        <tspan x="0.3077645" y="81">EUSOU</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
