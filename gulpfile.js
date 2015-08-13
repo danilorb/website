@@ -7,6 +7,7 @@ var autoprefixer = require("gulp-autoprefixer");
 var imagemin     = require('gulp-imagemin');
 var pngquant     = require('imagemin-pngquant');
 var plumber      = require('gulp-plumber');
+var ghPages      = require('gulp-gh-pages');
 
 var target = {
   stylesheet_src  : "./assets/stylesheets/**/*.scss",
@@ -35,6 +36,11 @@ gulp.task("images", function () {
       use: [pngquant()]
     }))
     .pipe(gulp.dest(target.images_dist));
+});
+
+gulp.task('deploy', function() {
+  return gulp.src('./_site/**/*')
+    .pipe(ghPages());
 });
 
 gulp.task("watch", function() {
